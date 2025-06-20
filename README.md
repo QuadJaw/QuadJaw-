@@ -1,1 +1,0 @@
-QuadJaw startup page
