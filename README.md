@@ -1,2 +1,0 @@
-# QuadJaw-
-QuadJaw launch page
